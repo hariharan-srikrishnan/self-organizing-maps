@@ -1,5 +1,5 @@
 # self-organizing-maps
-This is an implementation of self-organizing maps in python.\
+This is an implementation of self-organizing maps in python.
 
 To run this, you will have to install the requirements by doing:\
 <code>pip install -r requirements.txt</code> 
